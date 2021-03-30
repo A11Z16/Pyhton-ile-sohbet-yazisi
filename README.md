@@ -1,0 +1,1 @@
+# Pyhton-ile-sohbet-yaz-s-
